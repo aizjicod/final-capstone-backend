@@ -17,7 +17,7 @@
  ## API Documentation
  ![](./API.JPG)
 
-- [Final Capstone Database](https://bikes-db.onrender.com/api-docs/index.html)
+- [Final Capstone Database](https://ducati-rentals-jg4q.onrender.com/api-docs/index.html)
 <hr>
 
  ## SQL schema
@@ -57,7 +57,7 @@ $ ruby --version && irb
     In the terminal, navigate to where you wish the repo to be located and run these commands.
 
 ```
-$ git clone https://github.com/AbrahaKahsay/final-capstone-backend.git
+$ git clone https://github.com/aizjicod/final-capstone-backend.git
 ```
 ```
 $ cd final-capstone-backend
